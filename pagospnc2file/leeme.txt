@@ -1,0 +1,25 @@
+Aplicación de cruce de datos entre LISMI y PagosPNC
+
+
+
+Esta aplicación implementa el patrón de diseño Mediator. Al basarse en el desacoplamiento, evita que unos objetos se refieran a otros explícitamente y permite gestionar la interacción de forma independiente.
+
+[imagen de componentes]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
